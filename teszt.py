@@ -33,4 +33,4 @@ msg2.place(rely=0.4
 
 # Code to add widgets will go here...
 
-main_window.mainloop()
+main_window.mainloop() 
